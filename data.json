@@ -1,7 +1,7 @@
 [
   {
     "question": "CS2 deerh ymar nertei map ve?",
-    "img-url":
+    "img-url": "https://raw.githubusercontent.com/Temuulen0402/CS2-quiz/refs/heads/main/CS2_Vertigo_A_Site-1024x576.jpg",
     "options": ["Java", "Dart", "Swift", "Kotlin"],
     "answer": "Dart"
   },
