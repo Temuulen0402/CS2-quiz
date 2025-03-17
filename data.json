@@ -28,6 +28,6 @@
     "img-url": "https://raw.githubusercontent.com/Temuulen0402/CS2-quiz/refs/heads/main/cs2-train-hed.jpg"
     "options": ["Rail", "Office", "Train", "Haven"],
     "answer": "Train"
-  },
+  }
   
 ]
