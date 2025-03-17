@@ -1,16 +1,17 @@
 [
   {
-    "question": "Flutter ямар програмчлалын хэл дээр бичигддэг вэ?",
+    "question": "CS2 deerh ymar nertei map ve?",
+    "img-url":
     "options": ["Java", "Dart", "Swift", "Kotlin"],
     "answer": "Dart"
   },
   {
-    "question": "Flutter ямар UI framework вэ?",
+    "question": "CS2 deerh ymar nertei map ve?",
     "options": ["React Native", "SwiftUI", "Jetpack Compose", "Flutter"],
     "answer": "Flutter"
   },
   {
-    "question": "Flutter-д StatefulWidget болон StatelessWidget хоёрын ялгаа юу вэ?",
+    "question": "CS2 deerh ymar nertei map ve?",
     "options": [
       "StatefulWidget-д төлөв өөрчлөгдөхгүй",
       "StatelessWidget-д төлөв өөрчлөгдөхгүй",
@@ -20,7 +21,7 @@
     "answer": "StatelessWidget-д төлөв өөрчлөгдөхгүй"
   },
   {
-    "question": "Монгол улс ямар тивд байдаг вэ?",
+    "question": "CS2 deerh ymar nertei map ve?",
     "options": [
       "Ази",
       "Америк",
@@ -30,7 +31,7 @@
     "answer": "Ази"
   },
   {
-    "question": "Герман улс ямар тивд байдаг вэ?",
+    "question": "CS2 deerh ymar nertei map ve?",
     "options": [
       "Ази",
       "Америк",
